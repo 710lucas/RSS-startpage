@@ -13,12 +13,10 @@ A lightweight, simple, and highly customizable browser startpage focused on mini
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Dashboard](screenshots/screenshot1.jpg)
-*The default view featuring the clock, search bar, and a curated list of Hacker News headlines.*
+<img src='screenshots/Screenshot 2026-04-06 at 20-33-16 Startpage.png'/>
 
 ### Settings & Configuration
-![Settings Menu](screenshots/screenshot2.jpg)
-*Easy-to-use settings panel to customize your search engine, background image, and RSS sources.*
+<img src='screenshots/Screenshot 2026-04-06 at 20-33-26 Startpage.png'/>
 
 ## 🛠️ Installation & Usage
 
