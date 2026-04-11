@@ -7,6 +7,7 @@ A lightweight, simple, and highly customizable browser startpage focused on mini
 ## Features
 
 * **Dashboard:** A clean UI featuring a clock, a search bar, and your news feed.
+* **Pinned Sites:** Manage and access your favorite websites quickly with a built-in bookmarks/pinned section.
 * **RSS Integration:** Add and manage multiple RSS feeds to stay updated directly from your new tab.
 * **Customizable Backgrounds:** Set your wallpaper via URL or upload a local image (saved as base64).
 * **Custom Search Engine:** Choose your preferred search provider (Google, DuckDuckGo, etc.).
@@ -15,7 +16,7 @@ A lightweight, simple, and highly customizable browser startpage focused on mini
 ## Screenshots
 
 ### Main Interface
-<img src='screenshots/Screenshot 2026-04-06 at 20-33-16 Startpage.png'/>
+<img src='screenshots/Screenshot 2026-04-11 at 09-40-12 Startpage.png'/>
 
 ### Settings & Configuration
 <img src='screenshots/Screenshot 2026-04-06 at 20-33-26 Startpage.png'/>
